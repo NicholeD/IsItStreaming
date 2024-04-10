@@ -1,4 +1,4 @@
-package main.Models;
+package main.model;
 
 public class Platforms {
     private String name;

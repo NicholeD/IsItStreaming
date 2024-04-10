@@ -1,6 +1,5 @@
-package main.Models;
+package main.model;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Movie {

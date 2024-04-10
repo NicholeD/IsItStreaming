@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integration Tests/Integration Tests.iml" filepath="$PROJECT_DIR$/Integration Tests/Integration Tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IsItStreaming.iml" filepath="$PROJECT_DIR$/.idea/IsItStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceLambda/ServiceLambda.iml" filepath="$PROJECT_DIR$/ServiceLambda/ServiceLambda.iml" />
     </modules>
   </component>
 </project>
