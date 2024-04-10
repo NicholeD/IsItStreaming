@@ -1,4 +1,4 @@
-package Quiz;
+package main.Quiz;
 
 public class Question {
     private String question;
